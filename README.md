@@ -63,26 +63,17 @@ H~2~O is是液体。
 
 图片: ![forest-7383165_960_720](https://raw.githubusercontent.com/loopsteam/cartographic-bed/main/img/202209202330711.webp)
 
-带尺寸的图片: ![forest-7383165_960_720](https://raw.githubusercontent.com/loopsteam/cartographic-bed/main/img/202209202330711.webp =30x30)
-
-居中的图片: 
-
-![forest-7383165_960_720](https://raw.githubusercontent.com/loopsteam/cartographic-bed/main/img/202209202330711.webp#pic_center)
-
-
-
-居中并且带尺寸的图片: ![forest-7383165_960_720](https://raw.githubusercontent.com/loopsteam/cartographic-bed/main/img/202209202330711.webp#pic_center = 30x30)
-
-当然，我们为了让用户更加便捷，我们增加了图片拖拽功能。
-
 ## 如何插入一段漂亮的代码片
 
-去[博客设置](https://mp.csdn.net/console/configBlog)页面，选择一款你喜欢的代码片高亮样式，下面展示同样高亮的 `代码片`.
+去[博客设置](https://mp.csdn.net/console/configBlog)页面，选择一款你喜欢的代码片高亮样式，下面展示同样高亮的 `代码片
 
-```javascript
-// An highlighted block
-var foo = 'bar';
+```python
+print("Hello,World!")
 ```
+
+python中使用`print()`输出结果
+
+
 
 ## 生成一个适合你的列表
 
