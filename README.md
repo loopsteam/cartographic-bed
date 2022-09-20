@@ -1,4 +1,4 @@
-@[TOC](这里写自定义目录标题)
+@[TOC](Markdown编辑器教程)
 
 # 欢迎使用Markdown编辑器
 
