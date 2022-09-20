@@ -199,23 +199,6 @@ C --> D
 
 - 关于 **Mermaid** 语法，参考 [这儿][3],
 
-## FLowchart流程图
-
-我们依旧会支持flowchart的流程图：
-
-```mermaid
-flowchat
-st=>start: 开始
-e=>end: 结束
-op=>operation: 我的操作
-cond=>condition: 确认？
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-- 关于 **Flowchart流程图** 语法，参考 [这儿][4].
 
 ## 导出与导入
 
